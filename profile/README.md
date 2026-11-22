@@ -30,4 +30,4 @@ BandBinder is closed source. This organization holds its public install recipes.
 
 ---
 
-BandBinder is a product of Diligent Design and Consulting Incorporated.
+BandBinder is a product of [Diligent Design and Consulting Incorporated](https://diligentdesign.ca/).
